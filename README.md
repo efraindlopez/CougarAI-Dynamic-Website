@@ -3,7 +3,7 @@ CougarAI is a student led AI and ML club at the University of Houston. CougarAI 
 of introducing Machine Learning and Artificial Intelligence information to all interested students regardless of major/backgorund.
 
 
-
+![cai logo](https://user-images.githubusercontent.com/89282629/191143207-afbd3313-cdcb-4217-afae-5e21f3b0e452.png)
 
 
 
